@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback:
 - GitHub Issues: [Open an issue](https://github.com/4assignment/kmeans-initialization-tutorial/issues)
-- Email: as24052759@herts.ac.uk
+- Email: as24anp@herts.ac.uk
 
 ---
 
